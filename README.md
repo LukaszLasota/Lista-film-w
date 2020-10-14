@@ -1,4 +1,4 @@
-# Rest API Dog
+# Add movie app
 
 Application that adds your favorite movies or series to a list containing their title, photo and ranking.
 
